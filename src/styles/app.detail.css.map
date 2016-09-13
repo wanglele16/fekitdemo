@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,SAAS,EAAE,IAAI;EACf,KAAK,ECFK,IAAI;;ACCd,KAAG;EACD,KAAK,EAAE,KAAK;;ACDd,aAAG;EACD,KAAK,EAAE,IAAI",
+"sources": ["module/header.scss","util/common.util.scss","module/index.body.scss","module/footer.scss"],
+"names": [],
+"file": "app.detail.css"
+}
